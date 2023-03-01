@@ -18,7 +18,7 @@
     "http-errors": "~1.6.2",
     "imap-simple": "^4.3.0",
     "lodash": "^4.17.13",
-    "mailparser": "^2.4.3",
+    "mailparser": "^2.8.1",
     "mem": "^4.2.0",
     "mnemonist": "^0.27.2",
     "moment": "^2.24.0",
